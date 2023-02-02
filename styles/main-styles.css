@@ -1573,7 +1573,7 @@ background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(115,29,185,0.90
         grid-template-areas:
         'img title'
         'img slider';
-        grid-template-columns: minmax(200px,500px) minmax(200px,470px);
+        grid-template-columns: minmax(200px,500px) minmax(200px,70%);
         column-gap: 60px;
         row-gap:20px;
         z-index:3;   
